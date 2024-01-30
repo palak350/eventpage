@@ -1,1 +1,1 @@
-# eventpage in that basic about html oe css
+# eventpage in that basic about html or css
